@@ -86,4 +86,4 @@ Surface analysis showing profitable parameter density across varying buffer heig
 ---
 
 ## 🔒 Confidentiality Notice
-*Note: Proprietary entry buffer equations, live execution magic numbers, and full source code have been omitted to protect strategy intellectual property. All performance figures are derived from verified MetaTrader Strategy Tester reports.*
+*Note: Proprietary entry buffer equations, live execution magic numbers, and full source code have been omitted to protect strategy intellectual property. *
