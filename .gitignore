@@ -1,0 +1,10 @@
+# MetaTrader compilation files
+*.ex5
+*.ini
+*.set
+
+# System & logs
+*.log
+logs/
+.DS_Store
+Thumbs.db
